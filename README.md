@@ -6,7 +6,7 @@
 - You Could See This Repo ```https://github.com/bittentech/cyberhackctf```
 ## What I Use?
 
-- Reverse
+- **Reverse**
 ```
 strings.
 xdbg94.
@@ -14,14 +14,14 @@ notebad.
 detect it easy | <DIE>.
 ```
 
-- Crypto
+- **Crypto**
 ```
 Terminal.
 Some Online Websites.
 Coding.
 ```
 
-- Web
+- **Web**
 ```
 BurpSuite.
 Firefox & google-chrome.
