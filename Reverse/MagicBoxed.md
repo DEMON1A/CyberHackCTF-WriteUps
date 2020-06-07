@@ -7,7 +7,7 @@
 
 ## Content
 
-- Most Reverse Was For Windows There But **Still That Is Ma Fav Kind**, I Got AN EXE From The Challenge Called Magic Boxed So I Open Ma Windows Machine And Run DIE **< Detect It Easy >** And I Got That This Program Is Compiled In C/C++ With 32Bits, I Think IN This Way I Should Use Normal Debugger, So I Have Opened xdbg32 And Open The Program There First I Remives System Callback From Prefrense To Get In The Real Program Without Getting System Stuff, I Searched For Strings AND GOT NOTHING USEFUL So After A LOT OF PROGRAM RESTARTS AND THIS STUFF I NOTICE That There Is Weird Text Loaded From The Stack I Keep Step Over Code And Step In Call Function Then I Got That Text There Called ```cyberhack{H@ckTh3Box}``` Really I Do Not Remember The Flag But I Think That Is It, I Have Not Need To Test Other Stuff Just Watch The Stack Stuff
+- Most Reverse Was For Windows There But **Still That Is Ma Fav Kind**, I Got AN EXE From The Challenge Called Magic Boxed So I Open Ma Windows Machine And Run DIE **< Detect It Easy >** And I Got That This Program Is Compiled In C/C++ With 32Bits, I Think IN This Way I Should Use Normal Debugger, So I Have Opened xdbg32 And Open The Program There First I Removed System Callback From Preffrense And Add Exception With ```00000000:ffffffff``` To Get In The Real Program Without Getting System Stuff, I Searched For Strings AND GOT NOTHING USEFUL So After A LOT OF PROGRAM RESTARTS AND THIS STUFF I NOTICE That There Is Weird Text Loaded From The Stack I Keep Step Over Code And Step In Call Function Then I Got That Text There Called ```cyberhack{H@ckTh3Box}``` Really I Do Not Remember The Flag But I Think That Is It, I Have Not Need To Test Other Stuff Just Watch The Stack Stuff
 
 ## Tips
 
