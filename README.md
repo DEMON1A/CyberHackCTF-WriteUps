@@ -29,3 +29,11 @@ Cookie Editor Blugins.
 Detect Softwares Blugins.
 Linux Basics.
 ```
+
+## Online Websites.ase
+
+- ```https://www.dcode.fr/``` > **Full Website For Encode Stuff Like ['Morse' , 'Base' , 'Ciphers' , '..etc'].**
+- ```https://www.base64decode.org/``` > **Base64 Decode.**
+- ```https://www.base64encode.org/``` > **Base64 Encode.**
+- ```https://emn178.github.io/online-tools/base32_decode.html``` > **Base32 Decode.**
+- ```https://crackstation.net/``` > **Hash Cracking.**
