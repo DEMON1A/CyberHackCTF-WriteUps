@@ -51,3 +51,7 @@ Linux Basics.
 - ```https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/``` > **Wappalyzer For Firefox - Get Websites Frameworks Versions And Server Stuff ..etc**
 
 - ```https://portswigger.net/burp``` > **BurpSuite For WebPentest**
+
+## Genral Tips:
+
+- **Make Sure You Take Note Of All Weird Stuff You Found In The Stack That Could Lead To Get You In The Flag And Soometimes The Flag Will Be Encrypted**
