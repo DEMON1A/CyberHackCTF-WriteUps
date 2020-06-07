@@ -44,3 +44,10 @@ Linux Basics.
 - ```http://ntinfo.biz/index.html``` > **Detect It Easy (DIE).**
 - ```https://x64dbg.com/#start``` > **Xdbg94 Debugger For ['32' , '64'] Bits.**
 - ```https://docs.microsoft.com/en-us/sysinternals/downloads/strings``` > **Strings For Windows.**
+
+# Web Resources
+
+- ```https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=ar``` > **EditThisCookie For Crome - Edit Websites Cookies**
+- ```https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/``` > **Wappalyzer For Firefox - Get Websites Frameworks Versions And Server Stuff ..etc**
+
+- ```https://portswigger.net/burp``` > **BurpSuite For WebPentest**
