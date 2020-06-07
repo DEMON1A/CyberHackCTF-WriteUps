@@ -30,7 +30,7 @@ Detect Softwares Blugins.
 Linux Basics.
 ```
 
-## Online Websites.ase
+## Online Websites
 
 - ```https://www.dcode.fr/``` > **Full Website For Encode Stuff Like ['Morse' , 'Base' , 'Ciphers' , '..etc'].**
 - ```https://www.base64decode.org/``` > **Base64 Decode.**
