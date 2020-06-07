@@ -25,7 +25,7 @@ Coding.
 ```
 BurpSuite.
 Firefox & google-chrome.
-Cokkie Editor Blugins.
+Cookie Editor Blugins.
 Detect Softwares Blugins.
 Linux Basics.
 ```
