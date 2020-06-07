@@ -37,3 +37,10 @@ Linux Basics.
 - ```https://www.base64encode.org/``` > **Base64 Encode.**
 - ```https://emn178.github.io/online-tools/base32_decode.html``` > **Base32 Decode.**
 - ```https://crackstation.net/``` > **Hash Cracking.**
+
+
+# Reverse Resources.
+
+- ```http://ntinfo.biz/index.html``` > **Detect It Easy (DIE).**
+- ```https://x64dbg.com/#start``` > **Xdbg94 Debugger For ['32' , '64'] Bits.**
+- ```https://docs.microsoft.com/en-us/sysinternals/downloads/strings``` > **Strings For Windows.**
