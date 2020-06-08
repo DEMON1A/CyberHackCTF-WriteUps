@@ -55,3 +55,5 @@ Linux Basics.
 ## Genral Tips:
 
 - **Make Sure You Take Note Of All Weird Stuff You Found In The Stack That Could Lead To Get You In The Flag And Soometimes The Flag Will Be Encrypted**
+
+- **When Someone Gives Me Weird Encoded Text IDK What Type Of Encode Is, I Just Search With This Encode On Google Then When I Get His Name I Go To ```https://www.dcode.fr/``` And But That Encode On The Search Then I Got Some Cool Recommended Stuff FOr Decode This Text**
