@@ -60,3 +60,6 @@ Linux Basics.
 - **When Someone Gives Me Weird Encoded Text IDK What Type Of Encode Is, I Just Search With This Encode On Google Then When I Get His Name I Go To ```https://www.dcode.fr/``` And But That Encode On The Search Then I Got Some Cool Recommended Stuff FOr Decode This Text**
 
 - **Most Brute Force Challenges Using Some Words From rockyou.txt Make Sure You Will Use It AS First List.**
+
+### Contact
+- **mail: mdaif1332@gmail.com**
