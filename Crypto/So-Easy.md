@@ -1,7 +1,7 @@
 ## So Easy
 ### Crypto
 
-- The Challenges Gives Me Some Base64 Encoded Strings To Solve So I Types ```echo "{ENCODED} | base64 -d"``` On The Terminal To Decode This String, After Doing That I Got Another Encoded String Here I Was Like ```tk is happining``` Then I Got AN Simple Idea To Put The Decoded String In A File Then Decode It Again And Again And Again.. , Then After Type ```echo "{ENCODED} | base64 -d | tee Basefile "``` I Got Another Base Data There AND IDK WHY I DO THAT BUT I TYPED ```echo "" >> Basefile``` To Add New Line To The File, I Was About To Loop The Decode Proccess Using Bash **That What Happen Most Time In CTFs** Then I Got Data Contaning The Flag AT First Time.. , Solved.
+- The Challenges Gives Me Some Base64 Encoded Strings To Solve So I Types ```echo "{ENCODED} | base64 -d"``` On The Terminal To Decode This String, After Doing That I Got Another Encoded String Here I Was Like ```tk is happining``` Then I Got AN Simple Idea To Put The Decoded String In A File Then Decode It Again And Again And Again.. , Then After Type ```echo "{ENCODED}" | base64 -d | tee Basefile ``` I Got Another Base Data There AND IDK WHY I DO THAT BUT I TYPED ```echo "" >> Basefile``` To Add New Line To The File, I Was About To Loop The Decode Proccess Using Bash **That What Happen Most Time In CTFs** Then I Got Data Contaning The Flag AT First Time.. , Solved.
 
 - Data 
 ```
