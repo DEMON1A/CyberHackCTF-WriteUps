@@ -36,6 +36,7 @@ Linux Basics.
 - ```https://www.base64decode.org/``` > **Base64 Decode.**
 - ```https://www.base64encode.org/``` > **Base64 Encode.**
 - ```https://emn178.github.io/online-tools/base32_decode.html``` > **Base32 Decode.**
+- ```https://codebeautify.org/binary-string-converter``` > **Binary To String Decode.**
 - ```https://crackstation.net/``` > **Hash Cracking.**
 
 
