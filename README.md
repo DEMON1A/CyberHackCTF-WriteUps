@@ -43,7 +43,7 @@ Linux Basics.
 # Reverse Resources.
 
 - ```http://ntinfo.biz/index.html``` > **Detect It Easy (DIE).**
-- ```https://x64dbg.com/#start``` > **Xdbg94 Debugger For ['32' , '64'] Bits.**
+- ```https://x64dbg.com/#start``` > **Xdbg94 Debugger For [ ' 32 ' , ' 64 ' ] Bits.**
 - ```https://docs.microsoft.com/en-us/sysinternals/downloads/strings``` > **Strings For Windows.**
 
 # Web Resources
